@@ -1,0 +1,42 @@
+{
+  "name": "kinginnocent-xd",
+  "version": "2.1.1",
+  "description": "KING INNOCENT - WhatsApp Bot",
+  "website": "cooming soon",
+  "logo": "https://ibb.co/7tT5vsZ5",
+  "keywords": ["kinginnocent-xd", "whatsapp-bot"],
+  "success_url": "/",
+  "stack": "container",
+  "env": {
+    "BOT_NAME": {
+      "description": "Your Bot Name",
+      "required": true,
+      "value": "KING INNOCENT xᴅ"
+    },
+    "OWNER_NAME": {
+      "description": "KING INNOCENT",
+      "required": true,
+      "value": "KING INNOCENT"
+    },
+    "OWNER_NUMBER": {
+      "description": "27765456219",
+      "required": true,
+      "value": "27765456219"
+    },
+    "SESSION_ID": {
+      "description": "Put your session-id here. Must Start with 'starcore~'",
+      "required": false,
+      "value": ""
+    },
+    "MODE": {
+      "description": "Set Mode to 'public' to work in all chats, 'private' to work for you only",
+      "required": true,
+      "value": "public"
+    },
+    "TIMEZONE": {
+      "description": "Set your timezone",
+      "required": true,
+      "value": "Africa/Harare"
+    }
+  }
+}

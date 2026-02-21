@@ -1,0 +1,31 @@
+
+{
+"bot-name": "KINGINNOCENT-XD",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴋɪɴɢ ɪɴɴᴏᴄᴇɴᴛ",
+  "logo": "https://ibb.co/7tT5vsZ5",
+  "keywords": ["bot"],
+  "documentation-link": "https://malvinxd-pairsession.onrender.com/",
+    "owner-verification":"kinginnocent609@gmail.com",
+  
+    "env": {
+      "SESSION_ID": {
+        "description": "Put your SESSION_ID here. It starts with ᴋɪɴɢ ɪɴɴᴏᴄᴇɴᴛ ~",
+        "value":"",
+        "required": true
+        
+      },
+      
+    "OWNER_NUMBER": {
+      "description": "+27765456219",
+      "required": true,
+      "value": "+27765456219"
+      
+       },
+      "TIMEZONE": {
+      "description": "Enter country timezone",
+      "required": true,
+      "value": "Africa/Harare"
+
+    }  
+  }
+}
